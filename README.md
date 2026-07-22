@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<h3 align="center">Transforming ideas into scalable and efficient web applications. 🚀</h3>
+<h3 align="center">Transforming ideas into scalable and efficient web applications.</h3>
 
 <br />
 
@@ -159,7 +159,7 @@ Hi, I'm Samuel Peña, a Full-Stack Jr. Developer and Freelance Software Develope
 ---
 
 <div align="center">
-  <h3>Let's build something amazing together! 🚀</h3>
+  <h3>Let's build something amazing together!</h3>
   <p>If you're looking for a proactive developer to boost your team or carry out your next software project, let's talk.</p>
   <a href="mailto:penagoyosamueldavid@gmail.com">
     <img src="https://img.shields.io/badge/Say_Hello-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
