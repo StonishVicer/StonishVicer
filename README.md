@@ -1,167 +1,124 @@
 <div align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FAF8F6&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B;I'm+Samuel+Pe%C3%B1a;Full-Stack+Jr.+Developer;Building+scalable+web+applications"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
 
-<h3 align="center">Transforming ideas into scalable and efficient web applications.</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Samuel+Pe%C3%B1a+Goyo;Software+Engineer+%C2%B7+Backend+%26+LLM+Applications;Laravel+%C2%B7+Python+%C2%B7+MCP+%C2%B7+Evals;Claude+Certified+Developer" alt="Samuel Peña Goyo · Software Engineer · Backend & LLM Applications" />
 
-<br />
+**I ship software to production and measure it.** Multi-tenant SaaS with a paying customer · LLM pipelines evaluated like real software.
 
-<div align="center">
-  <a href="https://stonishdev.me/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-stonishdev.me-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-david-pe%C3%B1a-goyo-176348305/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:penagoyosamueldavid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<a href="https://stonishdev.me/"><img src="https://img.shields.io/badge/Portfolio-stonishdev.me-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/samuelgoyo"><img src="https://img.shields.io/badge/LinkedIn-samuelgoyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:penagoyosamueldavid@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://stonishdev.me/Samuel_Pena_Goyo_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-111111?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume (PDF)" /></a>
 
-<br />
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm Samuel Peña, a Full-Stack Jr. Developer and Freelance Software Developer from Venezuela. I specialize in building robust web solutions, from backend architecture to dynamic user interfaces.
-
-- 🎓 **Education:** Associate Degree in Computer Science from Jesús Obrero University Institute (IUJO) — *May 2026*
-- 🌎 **Location & Languages:** Venezuela (Latam Based — Worldwide Ready) | Bilingual: Spanish (Native) & English (C1 / EF SET C2 Proficient)
-- 💡 **Philosophy:** Passionate about solving complex problems through clean code, user-centered development, and agile implementations.
-- 🤝 **Beyond Code:** I dedicate time to volunteering, contributing my technical knowledge to social impact causes like IT modernization for the Venezuelan Red Cross.
-
----
-
-## 🏆 Featured Project: TrainUP (Private Repository)
-
-<div align="center">
-  <i>Currently my best work — an all-in-one gym management platform designed to centralize operations for training centers.</i>
-</div>
-
-**TrainUP** brings together all the tools a fitness center needs in one robust, multi-platform ecosystem. Due to the proprietary nature of this system, the codebase resides in a **private repository**, but a fully functional demo is available for evaluation.
-
-### ✨ Core Features
-- 💳 **Integrated Payments** and 📅 **Bookings**
-- 📊 **Body Metrics** monitoring
-- 👥 **Memberships** and 🔐 **Security**
-- 📱 **Dual Interfaces:** Dedicated Admin Panel and Client Portal
-
-> ℹ️ **Note:** TrainUP is a **mobile-first** application. It is in active development and looks best on mobile devices or using responsive developer tools in desktop browsers.
-
-### 🧪 Try the Live Demo
-
-| Role | Email | Password |
-| :--- | :--- | :--- |
-| 🛡️ **Admin** | `demo@trainup.lat` | `Demo123!` |
-| 👤 **Client** | `demo.user1@trainup.lat` | `password` |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,bash&theme=dark" alt="Languages" />
-</a>
-
-### Frontend
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css&theme=dark" alt="Frontend" />
-</a>
-
-### Backend & Database
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,postgres,supabase,mongodb,firebase&theme=dark" alt="Backend and Database" />
-</a>
-
-### Tools
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,cloudflare&theme=dark" alt="Tools" />
-</a>
+<a href="https://www.credly.com/badges/55881b18-b743-4907-94f3-3a1959ec1998"><img src="https://img.shields.io/badge/Claude_Certified_Developer-Foundations-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Certified Developer – Foundations (verify on Credly)" /></a>
 
 </div>
 
 ---
 
-## 💼 Experience
+### 👋 About
 
-### Full-Stack Developer Intern · Keycode Agencia Digital
-`Feb 2026 – May 2026`
-
-- Built a **multi-tenant SaaS payroll module ("Dash")** using Next.js and Supabase with Row Level Security.
-- Developed a corporate **Wiki** with Nextra JS and React for internal knowledge sharing.
-- Performed technical SEO audits and automated workflows with GoHighLevel CRM.
-
-### Web Developer & Community Manager · The Loctor Family of REALTORS®
-`Oct 2024 – May 2026`
-
-- Architected a custom real estate platform with WordPress/PHP, migrating legacy systems to IDX-ready architecture.
-- Integrated HubSpot CRM using REST APIs to unify marketing and sales pipelines.
+- 🔭 **Now:** Junior Full-Stack Developer at **Juega En Linea** (Laravel · PostgreSQL · SvelteKit), and co-founder of **TrainUP**, a gym-management SaaS in production.
+- 🤖 **Focus:** backend systems and LLM applications with Claude: tool use, MCP servers and rigorous evals.
+- 🧪 **How I work:** tests, CI, security reviews and zero-downtime deploys. I use Claude Code daily in a spec-driven workflow.
+- 🌎 **Barquisimeto, Venezuela** · open to remote work and relocation · 🇪🇸 Spanish (native) · 🇬🇧 English (C2) · 🇯🇵 Japanese (basic)
 
 ---
 
-## ❤️ Volunteering & Social Impact
+### 🚀 Featured work
 
-### IT Support · Venezuelan Red Cross (Barquisimeto)
-`Aug 2025 – Dec 2025`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Restored 12+ aging workstations through hardware diagnostics and recovery.
-- Drafted a strategic plan to renew 30+ year-old network cabling infrastructure.
-- Trained 20+ staff members in digital literacy and prompt engineering with AI tools.
+#### 🧾 [gym-ops-agent](https://github.com/StonishVicer/gym-ops-agent)
+
+[![CI](https://github.com/StonishVicer/gym-ops-agent/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/StonishVicer/gym-ops-agent/actions/workflows/ci.yml)
+
+Claude reads bank-transfer receipts into validated records, and a **read-only MCP server** reconciles them against a gym's bills.
+
+| Held-out eval (n = 100, synthetic) | Result |
+| --- | --- |
+| All-field accuracy | **98%** (95% CI 93–99%) |
+| Cost per receipt | **$0.0035** |
+| Prompt-injection detection | **3/3**, 0/97 false alarms |
+| Tests | **561**, 98% coverage |
+
+`Python` `Claude Haiku 4.5` `MCP` `Pydantic` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏋️ TrainUP · [trainup.lat](https://trainup.lat)
+
+Multi-tenant gym-management SaaS (**private repo**). I co-founded it and built payments, bookings, metrics and the super-admin console.
+
+| Since launch (Aug 2026) | |
+| --- | --- |
+| First paying customer | ✅ after a 30-day trial |
+| Active members | **100+** |
+| Bookings in Sep 2026 | **1,100+** |
+| Peak-hour capacity | **15 → 20** per slot (+33%) |
+
+Also: 4 critical security fixes locked in by **451 tests in CI** · zero-downtime atomic deploys with auto-rollback.
+
+`Laravel` `Vue 3` `Inertia.js` `MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Credentials & Certifications
-
-- 🤖 **Google – AI Essentials** (ID: 0952ea0b-0b17-4c88-a865-affc542312de)
-- 🧠 **Anthropic – Claude Code in Action** (ID: uv7e8yp69evp)
-- 🗣️ **EF SET English Certificate** — 82/100 (C2 Proficient)
-- 💻 **MoureDev** — Bash/Shell, terminal and command line from scratch
-
----
-
-## 📊 GitHub Stats
+### 🛠️ Stack
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=StonishVicer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=StonishVicer&show_icons=true&theme=default&hide_border=true">
-  </picture>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,ts,js,vue,svelte,tailwind&theme=dark" alt="PHP, Laravel, Python, TypeScript, JavaScript, Vue, Svelte, Tailwind" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,githubactions,nginx,cloudflare,linux,git,bash&theme=dark" alt="PostgreSQL, MySQL, SQLite, GitHub Actions, Nginx, Cloudflare, Linux, Git, Bash" />
+
+<img src="https://img.shields.io/badge/Claude-Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude / Anthropic SDK" />
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-111111?style=flat-square" alt="MCP" />
+<img src="https://img.shields.io/badge/LLM-Evals-6E40C9?style=flat-square" alt="LLM Evals" />
+<img src="https://img.shields.io/badge/Claude_Code-daily-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+
 </div>
 
-<br />
+---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StonishVicer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StonishVicer&layout=compact&theme=default&hide_border=true">
-  </picture>
-</div>
+### 💼 Experience
 
-<br />
+| Role | Where | When |
+| --- | --- | --- |
+| **Junior Full-Stack Developer** | Juega En Linea · Remote | Aug 2026 – Present |
+| **Co-founder & Software Engineer** | TrainUP · Remote | Jun 2026 – Present |
+| **Full-Stack Software Engineer Intern** | Keycode Agencia Digital · Remote, Mexico | Feb 2026 – May 2026 |
+| **Freelance Web Developer & Marketing Specialist** (part-time) | The Loctor Family of REALTORS® · Remote, US | Oct 2024 – May 2026 |
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=StonishVicer&theme=tokyonight&hide_border=true&background=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=StonishVicer&theme=default&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=StonishVicer&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </picture>
-</div>
+Details → [stonishdev.me](https://stonishdev.me/)
+
+---
+
+### 📜 Certifications
+
+- **Claude Certified Developer – Foundations**, Anthropic · Sep 2026 · proctored, score 911 (passing 720) · [verify](https://www.credly.com/badges/55881b18-b743-4907-94f3-3a1959ec1998)
+- **Claude Code in Action**, Anthropic Academy · Mar 2026 · [verify](https://verify.skilljar.com/c/uv7e8yp69evp)
+- **Google AI Essentials**, Google · Jul 2026 · [verify](https://www.credly.com/badges/0952ea0b-0b17-4c88-a865-affc542312de)
+- **EF SET English**, 82/100 (C2) · Apr 2026 · [verify](https://cert.efset.org/6dpZwX)
+
+🎓 Associate Degree in Computer Science (TSU, 3-year program) · Instituto Universitario Jesús Obrero · May 2026
 
 ---
 
 <div align="center">
-  <h3>Let's build something amazing together!</h3>
-  <p>If you're looking for a proactive developer to boost your team or carry out your next software project, let's talk.</p>
-  <a href="mailto:penagoyosamueldavid@gmail.com">
-    <img src="https://img.shields.io/badge/Say_Hello-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StonishVicer/StonishVicer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StonishVicer/StonishVicer/output/github-snake.svg" />
+  <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/StonishVicer/StonishVicer/output/github-snake.svg" />
+</picture>
+
+**Open to Junior/Associate Software Engineer and AI Engineer roles, remote or with relocation.**
+
+<a href="mailto:penagoyosamueldavid@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+
 </div>
